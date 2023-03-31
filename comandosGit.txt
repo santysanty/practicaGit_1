@@ -1,0 +1,7 @@
+1-git init
+2-git remote add santysanty https://github.com/santysanty/example_Git.git
+3-git remote add origin https://github.com/santysanty/example_Git.git
+4-git add nuevaCarpeta
+5-git status
+6-git commit -m "mensaje"
+
